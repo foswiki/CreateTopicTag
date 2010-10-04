@@ -31,7 +31,7 @@ our @ISA = qw( TWiki::Contrib::Build );
 
 sub new {
     my $class = shift;
-    return bless( $class->SUPER::new( "CreateTopicTag", "Build" ), $class );
+    return bless( $class->SUPER::new( "CreateTopicTag" ), $class );
 }
 
 # Example: Override the build target
