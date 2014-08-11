@@ -1,4 +1,4 @@
-%META:TOPICINFO{author="ProjectContributor" date="1111929255" format="1.0" version="$Rev$"}%
+%META:TOPICINFO{author="ProjectContributor" date="1407719201" format="1.1" version="1"}%
 ---+ Empty TWiki Tag
 
 This is an empty Tag you can use as a template to build your own TWikiTag.
